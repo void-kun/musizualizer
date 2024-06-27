@@ -1,1 +1,5 @@
-# musizualizer
+# Musizualizer
+
+---
+
+Audio Visualizer by C++
